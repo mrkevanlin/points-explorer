@@ -1,0 +1,87 @@
+{
+  "fetchedAt": "2026-10-16",
+  "source": "https://github.com/andenacitelli/credit-card-bonuses-api",
+  "offers": {
+    "reserve": {
+      "bonus": 150000,
+      "spend": 6000,
+      "spendDays": 90,
+      "annualFee": 795,
+      "name": "Sapphire Reserve",
+      "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve"
+    },
+    "preferred": {
+      "bonus": 75000,
+      "spend": 5000,
+      "spendDays": 90,
+      "annualFee": 95,
+      "name": "Sapphire Preferred",
+      "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred"
+    },
+    "gold": {
+      "bonus": 60000,
+      "spend": 6000,
+      "spendDays": 180,
+      "annualFee": 350,
+      "name": "Gold",
+      "url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+    },
+    "platinum": {
+      "bonus": 100000,
+      "spend": 8000,
+      "spendDays": 180,
+      "annualFee": 895,
+      "name": "Platinum",
+      "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+    },
+    "venture": {
+      "bonus": 75000,
+      "spend": 4000,
+      "spendDays": 90,
+      "annualFee": 395,
+      "name": "Venture X",
+      "url": "https://www.capitalone.com/credit-cards/venture-x/"
+    },
+    "strata": {
+      "bonus": 60000,
+      "spend": 4000,
+      "spendDays": 90,
+      "annualFee": 95,
+      "name": "Strata Premier",
+      "url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card"
+    },
+    "bilt": {
+      "bonus": 0,
+      "spend": 0,
+      "spendDays": 0,
+      "annualFee": 0,
+      "name": "Bilt",
+      "url": "https://www.biltrewards.com/card"
+    },
+    "journey": {
+      "bonus": 60000,
+      "spend": 4000,
+      "spendDays": 90,
+      "annualFee": 95,
+      "name": "Autograph Journey",
+      "url": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card"
+    },
+    "ink": {
+      "bonus": 100000,
+      "spend": 8000,
+      "spendDays": 90,
+      "annualFee": 95,
+      "name": "Ink Business Preferred",
+      "url": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred"
+    },
+    "strataBasic": {
+      "bonus": 20000,
+      "spend": 1000,
+      "spendDays": 90,
+      "annualFee": 0,
+      "name": "Strata",
+      "url": "https://www.citi.com/credit-cards/citi-strata-credit-card"
+    }
+  },
+  "missing": []
+}
